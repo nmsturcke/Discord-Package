@@ -142,7 +142,7 @@
     "activityUpdated": "{you} have {count} Updated Activities",
     "addChannelRecipient": "{you've} added {count} users to group chats",
     "addReaction": "{you've} Added {count} reactions to messages",
-    "appCrashed": "{your} Discord has crashed {count} times",
+    "appCrashed": "Your Discord has crashed {count} times",
     "applicationClosed": "{you've} closed Discord {count} times",
     "applicationCreated": "{you've} created {count} Developer Applications",
     "applicationDeleted": "{you've} deleted {count} Developer Applications",
